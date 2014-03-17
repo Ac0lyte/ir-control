@@ -1,3 +1,4 @@
+<pre>
 IR Decoder using RadioShack #276-640
 
 Many thanks to Mark aka "pscmpf" his
@@ -43,3 +44,4 @@ pinData  ---(1k)--- IR out
 ---------------------------------------
 
 
+</pre>
